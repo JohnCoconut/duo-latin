@@ -1,0 +1,64 @@
+#+TITLE: Emotions
+
+* Miser (unhappy)
+** Discipulus miser ad ludum it.
+The unhappy student goes to school.
+
+* Laetus (first/second declension adjective)
+| Number      | Singular  |          |        | Plural    |          |          |
+|-------------+-----------+----------+--------+-----------+----------+----------|
+| Case/Gender | Masculine | Feminine | Neuter | Masculine | Feminine | Neuter   |
+| Nominative  | laetus    | laeta    | laetum | laeti     | laetae   | laeta    |
+| Genitive    | laeti     | laetae   | laeti  | laetorum  | laetarum | laetorum |
+| Dative      | laeto     | laetae   | laeto  | laetis    |          |          |
+| Accusative  | laetum    | laetam   | laetum | laetos    | laetas   | laeta    |
+| Ablative    | laeto     | laeta    | laeto  | laetis    |          |          |
+| Vocative    | laete     | laeta    | laetum | laeti     | laetae   | laeta    |
+
+* Senex (Third declension adjective)
+| Number      | Singular |        | Plural   |        |
+|-------------+----------+--------+----------+--------|
+| Case/Gender | Masc/Fem | Neuter | Masc/Fem | Neuter |
+| Nominative  | senex    |        | senes    | senia  |
+| Genitive    | senis    |        | senium   |        |
+| Dative      | seni     |        | senibus  |        |
+| Accusative  | senem    | senex  | senes    | senia  |
+| Ablative    | seni     |        | senibus  |        |
+| Vocative    | senex    |        | senes    | senia  |
+
+(m; Third declension noun)
+| Case       | Singular | Plural  |
+|------------+----------+---------|
+| Nominative | senex    | senes   |
+| Genitive   | senis    | senum   |
+| Dative     | seni     | senibus |
+| Accusative | senem    | senes   |
+| Ablative   | sene     | senibus |
+| Vocative   | senex    | senes   |
+
+** Senem laetum visitamus.
+We visit the happy old man.
+** Discipulus laetus libros multos legit.
+A happy student reads many books.
+** Viri laeti dormiunt.
+The happy men sleep.
+
+* Fessae (tired)
+** Feminae fessae in foro cibum emunt.
+The tired women buy food in the forum.
+** Senes fessi dormiunt.
+The tired old men sleep.
+
+* Solliciti (worried)
+** Solliciti sumus.
+We are worried.
+
+* Ebrias (drunk)
+** Medicas ebrias non visitamus.
+We do not visit drunk doctors.
+
+* From previous chapter
+** Forum vestrum visitamus.
+We visit your market.
+** Magister vester est fessus.
+Your teacher is tired.
