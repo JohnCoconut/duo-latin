@@ -1,0 +1,433 @@
+#+TITLE: Words
+
+* Mercator (m; third declension)
+| Case       | Singular | Plural     |
+|------------+----------+------------|
+| Nominative | mercator | mercatores |
+
+* Emo
+| first | second | third | first  | second | third |
+|-------+--------+-------+--------+--------+-------|
+| emo   | emis   | emit  | emimus | emitis | emunt |
+
+
+* Pictura (f; first declension)
+| Case       | Singular | Plural   |
+|------------+----------+----------|
+| Nominative | pictura  | picturae |
+| Accusative | picturam | picturas |
+| Ablative   | pictura  | picturis |
+
+** Mercator multas picturas emit.
+
+* Cibus (m; second declension)
+| Case       | Singular | Plural |
+|------------+----------+--------|
+| Nominative | cibus    | cibi   |
+| Accusative | cibum    | cibos  |
+
+** Emitne Corinna multos cibos?
+
+* Porto
+| first | second | third  | first    | second   | third   |
+|-------+--------+--------+----------+----------+---------|
+| porto | portas | portat | portamus | portatis | portant |
+
+* Vendo
+| first | second | third  | first    | second   | third   |
+|-------+--------+--------+----------+----------+---------|
+| vendo | vendis | vendit | vendimus | venditis | vendunt |
+
+** Mercatores cibos portant et in foro vendunt.
+
+* Panis (m; third declension)
+| Case       | Singular | Plural       |
+|------------+----------+--------------|
+| Nominative | panis    | panes        |
+| Accusative | panem    | panes; panis |
+
+** Ubi panem emis?
+
+* Pictor (m; third declension)
+| Case       | Singular | Plural   |
+|------------+----------+----------|
+| Nominative | pictor   | pictores |
+| Accusative | pictorem | pictores |
+
+* Pingo (third conjugation)
+| first | second | third  | first    | second   | third   |
+|-------+--------+--------+----------+----------+---------|
+| pingo | pingis | pingit | pingimus | pingitis | pingunt |
+
+** Pictores pingunt.
+** Pictores picturas pulchras pingunt.
+
+* Pistor (m; third declension)
+| Case       | Singular | Plural   |
+|------------+----------+----------|
+| Nominative | pistor   | pistores |
+| Accusative | pistorem | pistores |
+
+* Facio (third conjugation)
+| first | second | third | first   | second  | third   |
+|-------+--------+-------+---------+---------+---------|
+| facio | facis  | facit | facimus | facitis | faciunt |
+
+** Pistor panem facit.
+
+* Agricola (m; first declension)
+| Case       | Singular  | Plural    |
+|------------+-----------+-----------|
+| Nominative | agricola  | agricolae |
+| Accusative | agricolam | agricolas |
+
+** Pictor agricolam in pictura pingit.
+
+* Vir (m; second declension)
+| Case       | Singular | Plural |
+|------------+----------+--------|
+| Nominative | vir      | viri   |
+| Accusative | virum    | viros  |
+
+* Aeger/Aegra (first/second declension adjective)
+| Case       | Masculine | Feminine | Neuter | Masculine | Feminine | Neuter |
+|------------+-----------+----------+--------+-----------+----------+--------|
+| Nominative | aeger     | aegra    | aegrum | aegri     | aegrae   | aegra  |
+| Accusative | aegrum    | aegram   | aegrum | aegros    | aegras   | aegra  |
+
+* Aedificium (n; second declension)
+| Case       | Singular   | Plural     |
+|------------+------------+------------|
+| Nominative | aedificium | aedificia  |
+| Accusative | aedificium | aedificia  |
+| Ablative   | aedificio  | aedificiis |
+
+* Coquo (third conjugation)
+| first | second | third  | first    | second   | third   |
+|-------+--------+--------+----------+----------+---------|
+| coquo | coquis | coquit | coquimus | coquitis | coquunt |
+
+** Vir aeger in aedifico coquit.
+
+* Architectus (m; second conjugation)
+| Case       | Singular    | Plural      |
+|------------+-------------+-------------|
+| Nominative | architectus | architecti  |
+| Accusative | architectum | architectos |
+
+* Scaena (f; first declension)
+| Case       | Singular | Plural  |
+|------------+----------+---------|
+| Nominative | scaena   | scaenae |
+| Accusative | scaenam  | scaenas |
+| Ablative   | scaena   | scaenis |
+
+
+* Construo (third conjugation)
+| first    | second    | third     | first       | second      | third      |
+|----------+-----------+-----------+-------------+-------------+------------|
+| construo | construis | construit | construimus | construitis | construunt |
+
+** Architectus scaenam construit.
+
+* Domus (f; fourth/second declension)
+| Case       | Singular | Plural       |
+|------------+----------+--------------|
+| Nominative | domus    | domus        |
+| Accusative | domum    | domus; domos |
+
+** Domum construis
+
+* Ager (m; second declension)
+| Case       | Singular | Plural |
+|------------+----------+--------|
+| Nominative | ager     | agri   |
+| Accusative | agrum    | agros  |
+
+* Numero (first conjugation)
+| first  | second  | third   | first     | second    | third    |
+|--------+---------+---------+-----------+-----------+----------|
+| numero | numeras | numerat | numeramus | numeratis | numerant |
+
+** Agricolae agros numerant.
+
+* Theatrum (n; second declension)
+| Case       | Singular | Plural   |
+|------------+----------+----------|
+| Nominative | theatrum | theatra  |
+| Accusative | theatrum | theatra  |
+| Abliative  | theadtro | theatris |
+
+* Crustulum (n; second declension)
+| Case       | Singular  | Plural   |
+|------------+-----------+----------|
+| Nominative | crustulum | crustula |
+| Accusative | crustulum | crustula |
+
+* Epistula (f; first declension)
+| Case       | Singular  | Plural    |
+|------------+-----------+-----------|
+| Nominative | epistula  | epistulae |
+| Accusative | epistulam | epistulas |
+
+* Tabellarius (m; second declension)
+| Case       | Singular    | Plural      |
+|------------+-------------+-------------|
+| Nominative | tabellarius | tabellarii  |
+| Accusative | tabellarium | tabellarios |
+
+** Tabellarius multas epistulas portat.
+
+* Miles (m; third declension)
+| Case       | Singular | Plural  |
+|------------+----------+---------|
+| Nominative | miles    | milites |
+| Accusative | militem  | milites |
+
+* Pecunia (f; first declension)
+| Case       | Singular | Plural   |
+|------------+----------+----------|
+| Nominative | pecunia  | pecuniae |
+| Accusative | pecuniam | pecunias |
+
+** Miles aeger pecuniam numerat.
+** Milites prandia sana emunt.
+
+* Medicus (m; second declension)
+| Case       | Singular | Plural  |
+|------------+----------+---------|
+| Nominative | medicus  | medici  |
+| Accusative | medicum  | medicos |
+
+* Prandium (n; second declension)
+| Case       | Singular | Plural  |
+|------------+----------+---------|
+| Nominative | prandium | prandia |
+| Accusative | prandium | prandia |
+
+** Milites prandia sana emunt.
+** Pradium ei placet.
+
+* is (demonstrative pronoun)
+| Case       | Masculine | Feminine | Neuter | Masculine | Feminine | Neuter   |
+|------------+-----------+----------+--------+-----------+----------+----------|
+| Nominative | is        | ea       | id     | ei; ii    | eae      | ea       |
+| Accusative | eum       | eam      | id     | eos       | eas      | ea       |
+| Dative     | ei        | ei       | ei     | eis; iis  | eis; iis | eis; iis |
+
+* ego/tu
+| Case       | first | second | reflexive | first          | second         | reflexive |
+|------------+-------+--------+-----------+----------------+----------------+-----------|
+| nominative | ego   | tu     | -         | nos            | vos            | -         |
+| genitive   | mei   | tui    | sui       | nostri,nostrum | vestri,vestrum | sui       |
+| dative     | mihi  | tibi   | sibi      | nobis          | vobis          | sibi      |
+
+** Cena mihi placet.
+** Magister ei placet.
+** Placetne tibi?
+** Lectus tibi placet.
+
+* Cena (f; first declension)
+| Case       | Singular | Plural |
+|------------+----------+--------|
+| Nominative | cena     | cenae  |
+| Accusative | cenam    | cenas  |
+
+** Cena nostra mihi placet.
+
+* Coquus (m; second declension)
+| Case       | Singular | Plural |
+|------------+----------+--------|
+| Nominative | coquus   | coqui  |
+| Accusative | coquum   | coquos |
+
+** Coqui cenas coquunt.
+The cooks cook dinners.
+
+* Lectus (m; second declension)
+| Case       | Singular | Plural |
+|------------+----------+--------|
+| Nominative | lectus   | lecti  |
+| Accusative | lectum   | lectos |
+| Dative     | lecto    | lectis |
+
+** Lecti non sunt in foro.
+** Marcus in lecto librum legit.
+
+* Placeo (second conjugation)
+| first  | second | third  | first    | second   | third   |
+|--------+--------+--------+----------+----------+---------|
+| placeo | places | placet | placemus | placetis | placent |
+
+** Prandium ei placet.
+
+* Patronus (m; second declension)
+| Case       | Singular | Plural   |
+|------------+----------+----------|
+| Nominative | patronus | patroni  |
+| Accusative | patronum | patronos |
+
+** Patronum visitamus.
+** Patroni et clientes non dormiunt.
+** Cliens patronum visitat.
+The client visits the patron.
+
+* Paedagogus (m; second declension)
+| Case       | Singular      | Plural     |
+|------------+---------------+------------|
+| Nominative | paedagogus    | paedagogi  |
+| Accusative | paedagogum    | paedagogos |
+| Ablative   | peaedagogo    | paedagogis |
+
+** Ego paedagogum in urbe visito.
+I visit the tutor in the city.
+** Patronus cum paedagogo est.
+** Padaegogi dormiunt.
+** Paedagogus non aedificia construit.
+The tutor does not build buildings.
+
+* Taberna (f; first declension)
+| Case       | Singular | Plural   |
+|------------+----------+----------|
+| Nominative | taberna  | tabernae |
+| Accusative | tabernam | tabernas |
+| Ablative   | taberna  | tabernis |
+
+** Tabernam visitamus.
+We visit the shop.
+** In taberna non dormis.
+** Tabernae sunt in foro.
+** Quot tabernas in foro visitamus?
+
+* Salutatio (f; third declension)
+| Case       | Singular     | Plural       |
+|------------+--------------+--------------|
+| Nominative | salutatio    | salutationes |
+| Accusative | salutationem | salutationes |
+
+** Ego salutationem facio.
+I visit the patron.
+** Clientes salutationes faciunt.
+The clients visit the patrons.
+
+* Cliens (m/f; third declension)
+| Case       | Singular | Plural             |
+|------------+----------+--------------------|
+| Nominative | cliens   | clientes           |
+| Accusative | clientem | clientis; clientes  |
+
+** Cliens eius in sepulchro est.
+
+* Pulcher (first/second declension adjective)
+| Case       | Masculine | Feminine | Neuter   | Masculine | Feminine | Neuter  |
+|------------+-----------+----------+----------+-----------+----------+---------|
+| Nominative | pulcher   | pulchra  | pulchrum | pulchri   | pulchrae | pulchra |
+| Accusative | pulchrum  | pulchram | pulchrum | pulchros  | pulchras | pulchra |
+
+** Pictores picturas pulchras pingunt.
+The painters paint beautiful pictures.
+** Ara est pulchra.
+The altar is beautiful.
+
+* Templum (n; second declension)
+| Case       | Singular | Plural  |
+|------------+----------+---------|
+| Nominative | templum  | templa  |
+| Ablative   | templo   | templis |
+
+** Illa templa sunt in foro.
+Those temples are in the forum.
+** Templum nostrum est pulchrum.
+Our temple is beautiful.
+
+* Noster (first/second declension adjective)
+| Case       | Masculine | Feminine | Neuter  | Masculine | Feminine | Neuter |
+|------------+-----------+----------+---------+-----------+----------+--------|
+| Nominative | noster    | nostra   | nostrum | nostri    | nostrae  | nostra |
+| Accusative | nostrum   | nostram  | nostrum | nostros   | nostras  | nostra |
+
+** Paterfamilias noster est non senilis.
+Our paterfamilias is not aged.
+** Cliens noster dormit.
+
+* Vates (m; third conjugation)
+| Case       | Singular | Plural       |
+|------------+----------+--------------|
+| Nominative | vates    | vates        |
+| Accusative | vatem    | vates; vatis |
+
+* Sacer (first/second declension adjective)
+| Case       | Masculine | Feminine | Neuter | Masculine | Feminine | Neuter |
+|------------+-----------+----------+--------+-----------+----------+--------|
+| Nominative | sacer     | sacra    | sacrum | sacri     | scrae    | sacra  |
+| Accusative | sacrum    | sacram   | sacrum | sacros    | sacras   | sacra  |
+
+** Vates est vir sacer.
+A seer is a holy man.
+** Vates libros sacros legunt.
+The bards read the sacred books.
+** Vatem sacrum in urbe visitamus.
+We visit the sacred bard in the city.
+** In templo pulchro est vates.
+In the beautiful temple is a seer.
+** Templum nostrum est pulchrum.
+
+* Optimus (first/second declension adjective)
+| Case       | Masculine | Feminine | Neuter  | Masculine | Feminine | Neuter |
+|------------+-----------+----------+---------+-----------+----------+--------|
+| Nominative | optimus   | optima   | optimum | optimi    | optimae  | optima |
+| Accusative | optimum   | optimam  | optimum | optimos   | optimas  | optima |
+
+** Marcus vatem optimum visitat.
+
+* Discipulus (m; second declension)
+| Case       | Singular   | Plural     |
+|------------+------------+------------|
+| Nominative | discipulus | discipuli  |
+| Accusative | discipulum | discipulos |
+
+* Liber (m; second declension)
+| Case       | Singular | Plural |
+|------------+----------+--------|
+| Nominative | liber    | libri  |
+| Accusative | librum   | libros |
+
+** Discipuli optimi libros legunt.
+The best student read books
+** Discipuli libros optimos legunt.
+The student read the best books.
+
+* Ara (f; first declension)
+| Case       | Singular | Plural |
+|------------+----------+--------|
+| Nominative | ara      | arae   |
+| Accusative | aram     | aras   |
+
+** Templum aram habet.
+The temple has an al/tar.
+** Quot arae in templo sunt?
+How many altars are in the temple?
+
+** Patronus noster aras multas habet.
+Our patron has many altars.
+** Patronus noster est optimus.
+Our patron is the best.
+** Patronus cum paedagogo est.
+
+* Hodie
+today
+
+** Hodie templum sacrum mihi placet.
+
+* Debeo (second conjugation)
+| first | second | third | first   | second  | third  |
+|-------+--------+-------+---------+---------+--------|
+| debeo | debes  | debet | debemus | debetis | debent |
+
+** Matrem visitare debeo.
+I should visit mother.
+
+** Gladiatores pugnare debent.
+Gladiators should fight.
+** Gladiator pugnare debet.
+Gladiator should fight.
