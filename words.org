@@ -319,10 +319,11 @@ The clients visit the patrons.
 ** Cliens eius in sepulchro est.
 
 * Pulcher (first/second declension adjective)
-| Case       | Masculine | Feminine | Neuter   | Masculine | Feminine | Neuter  |
-|------------+-----------+----------+----------+-----------+----------+---------|
-| Nominative | pulcher   | pulchra  | pulchrum | pulchri   | pulchrae | pulchra |
-| Accusative | pulchrum  | pulchram | pulchrum | pulchros  | pulchras | pulchra |
+| Case       | Masculine | Feminine | Neuter   | Masculine | Feminine | Neuter   |
+|------------+-----------+----------+----------+-----------+----------+----------|
+| Nominative | pulcher   | pulchra  | pulchrum | pulchri   | pulchrae | pulchra  |
+| Accusative | pulchrum  | pulchram | pulchrum | pulchros  | pulchras | pulchra  |
+| Ablative   | pulchro   | pulchra  | pulchro  | pulchris  | pulchris | pulchris |
 
 ** Pictores picturas pulchras pingunt.
 The painters paint beautiful pictures.
@@ -339,6 +340,8 @@ The altar is beautiful.
 Those temples are in the forum.
 ** Templum nostrum est pulchrum.
 Our temple is beautiful.
+** Templum visitas et sacrificas.
+You visit the temple and sacrifice.
 
 * Noster (first/second declension adjective)
 | Case       | Masculine | Feminine | Neuter  | Masculine | Feminine | Neuter |
@@ -349,6 +352,8 @@ Our temple is beautiful.
 ** Paterfamilias noster est non senilis.
 Our paterfamilias is not aged.
 ** Cliens noster dormit.
+** Cena nostra mihi placet.
+I like our dinner.
 
 * Vates (m; third conjugation)
 | Case       | Singular | Plural       |
@@ -379,6 +384,9 @@ In the beautiful temple is a seer.
 | Accusative | optimum   | optimam  | optimum | optimos   | optimas  | optima |
 
 ** Marcus vatem optimum visitat.
+Marcus visits the best seer.
+** Discipuli optimi libros legunt.
+The best students read the books.
 
 * Discipulus (m; second declension)
 | Case       | Singular   | Plural     |
@@ -404,7 +412,7 @@ The student read the best books.
 | Accusative | aram     | aras   |
 
 ** Templum aram habet.
-The temple has an al/tar.
+The temple has an altar.
 ** Quot arae in templo sunt?
 How many altars are in the temple?
 
@@ -413,11 +421,17 @@ Our patron has many altars.
 ** Patronus noster est optimus.
 Our patron is the best.
 ** Patronus cum paedagogo est.
+** In templo sunt arae sacrae.
+In the temple are the sacred altars.
+** Vates optimus ad aram it.
+The best bard goes to the altar.
 
 * Hodie
 today
 
 ** Hodie templum sacrum mihi placet.
+** Hodie gladiator pugnat.
+Today the gladiator fights.
 
 * Debeo (second conjugation)
 | first | second | third | first   | second  | third  |
@@ -431,3 +445,5 @@ I should visit mother.
 Gladiators should fight.
 ** Gladiator pugnare debet.
 Gladiator should fight.
+** Quomodo pugnare debemus?
+How should we fight?
