@@ -56,9 +56,141 @@ We are worried.
 * Ebrias (drunk)
 ** Medicas ebrias non visitamus.
 We do not visit drunk doctors.
+** Psittacus eius est ebrius.
+Her parrot is drunk.
+
+* Otiosus (leisurely)
+** Senex otiosus librum legit.
+The leisurely old man reads a book.
+** Feminae otiosae litteras multas scribunt.
+** Suntne psittaci otiosi?
+Are the parrots leisurely?
+
+* Irata (angry)
+** Livia est fessa est irata.
+Livia is tired and angry.
+** Iuvenes irati pugnant.
+The angry young men fight.
+** Iuvenis cum psittaco irato in foro est.
+The young man is in the forum with an angry parrot.
+
+* Negotiosas (busy)
+** Filias negotiosas habeo.
+I have busy daughters.
+** Livia tres filios negotiosos habet.
+Livia has tree busy sons.
+
+* Ignavus (lazy)
+** Coquus ignavus non coquit.
+A lazy cook does not cook.
+
+* Pulsas (hit)
+** Tu psittacum non pulsas.
+You do not hit the parrot.
+** Milites coquum ignavum pulsant.
+The soldiers hit the lazy cook.
+** Psittacos iratos non pulsatis.
+You do not hit angry parrots.
+
+* Contubernalis (comrade)
+** Contubernalis est laetus.
+The comrade is happy.
+** Comites non pugnant.
+The comrades do not fight.
+** Senex comitem habet.
+The old man has a comrade.
+
+* Tacitae
+** Puellae in ludo sunt tacitae.
+The girls are quiet in school.
+** Senex tacitus et femina tacita dormiunt.
+The quiet old man and the quiet woman sleep.
+** Discipulus placidus est tacitus.
+The calm student is quiet.
+
+* Periti (skilled people, substantive adjective)
+** Periti pugnamus.
+We skilled men fight.
+** Peritos pugnamus.
+We fight skilled people.
+
+* Perfidum
+** Psittacum ebrium et perfidum habeo.
+I have a drunk and deceitful parrot.
+** Puellas perfidas non doceumus.
+We do not teach deceitful girls.
+** Pueri senes perfidos numerant.
+The boys count the deceitful old men.
+** Comes perfidus non pugnat.
+The deceitful comrade does not fight.
+** Iuvenis perfidus et impius magistrum pulsat.
+The deceitful and undutiful young man hits the teacher.
+
+* Placidas (calm)
+** Tres filias placidas habeo.
+I have three calm daughters.
+** Pueros placidos docemus.
+We teach calm boys.
+
+* Interdum (sometimes)
+** Interdum comites sunt perfidi.
+Sometimes the comrades are deceitful.
+
+* Impiae (undutiful)
+** Feminae impiae sunt in foro.
+The undutiful women are in the forum.
+** Iuvenis impius librum non legit.
+The disrespectful you man does not read the book.
+** Magister pueros impios non pulsat.
+The teacher does not hit the undutiful boys.
+** Milites impii non pugnant.
+The undutiful soldiers do not fight.
+
+* Sententiae (opinions)
+** Multae sententiae sunt impiae.
+Many options are undutiful.
+
+* Fortasse (perhaps)
+** Fortasse comites sunt perfidi et impii.
+Perhaps the comrades are deceitful and undutiful.
+
+* Scitis (you know)
+** Fortasse libros scitis.
+Perhaps you know the books.
+** Ego nostram sententiam scio.
+I know our opinion.
+** Comites sententias nostras sciunt.
+The comrades know our opinions.
 
 * From previous chapter
 ** Forum vestrum visitamus.
 We visit your market.
 ** Magister vester est fessus.
 Your teacher is tired.
+
+================================================================================
+
+
+* Ego non sum ebria.
+
+* Senem laetum visitamus.
+
+* Discipulus laetus libros multos legit.
+
+* Medicas ebrias non visitamus.
+
+* In aedifico sunt senes miseri.
+
+* Viri laeti dormiunt.
+
+* Feminae fessae in foro cibum emunt.
+
+* Forum vestrum visitamus.
+
+* Magister vester est fessus.
+
+* Ad miserum pistorem imus.
+
+* Discipulus miser ad ludum it.
+
+* Solliciti sumus.
