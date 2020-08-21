@@ -1,0 +1,16 @@
+#+TITLE: Noun Declensions
+
+
+1. First declension
+ | Number   | Case       |       | Example                               |
+ |----------+------------+-------+---------------------------------------|
+ | Singular | Nominative | -a    | Femina optat.                         |
+ |          | Genitive   | -ae   | patria feminae                        |
+ |          | Dative     | -ae   | Taedam feminae dat.                   |
+ |          | Accusative | -am   | Feminam videt.                        |
+ |          | Ablative   | -a    | Cum femina ambulat.                   |
+ | Plural   | Nominative | -ae   | Et feminae et nautae in via ambulant. |
+ |          | Genitive   | -arum |                                       |
+ |          | Dative     | -is   |                                       |
+ |          | Accusative | -as   | Regina feminas videre coronam dat.    |
+ |          | Ablative   | -is   |                                       |
