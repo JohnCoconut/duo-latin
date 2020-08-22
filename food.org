@@ -1,0 +1,77 @@
+#+TITLE: Food
+
+* piscis
+fish
+
+* pavimentum
+floor
+
+* Olivae pingues sunt.
+The olive are fat.
+
+* Plurima sepulchra Romae sunt.
+There are very many graves in Rome.
+
+* Plurimi pisces tibi placent.
+You like very many fish.
+
+* Plurimae letiones in libro sunt.
+There are very many chapters in the book.
+
+* Piscem pulsas.
+You hit a fish.
+
+* Comes pisces in pavimentum iacit.
+The comrade throws the fish onto the floor.
+
+* Pisces in pavimentum iacio.
+I throw fish onto the floor.
+
+* Piscem pinguem velim.
+I would like a fat fish.
+
+* Piscis in pavimento est.
+The fish is on the floor.
+
+* Tu plurimos pisces in pavimentum iacis.
+You throw very many fish onto the floor.
+
+* salsus
+salty
+
+* mensa
+table
+
+* Coquus piscem gustat.
+The cook tastes the fish.
+
+* Quot triclinia habetis?
+How many dining rooms do you have?
+
+* Piscem in mensam iacit.
+She throws the fish on the table.
+
+* Placetne tibi piscis salsus?
+Do you like a salty fish?
+
+* Vir pecuniosus vinum gustat.
+The rich man tastes the fish.
+
+* Pisces salsos velim.
+I would like the salty fish.
+
+* Femina pecuniosa psittacum iratum habet.
+The rich woman has an angry parrot.
+
+* Triclinium pavimentum habet.
+The dinning room has a floor.
+
+* Tu garum gustas.
+You taste the fish sauce.
+
+* Garum et pisces gustamus.
+We taste the fish sauce and fish.
+
+* Garum gustatis.
+
+* Garum salsum gusto.
