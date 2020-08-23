@@ -75,3 +75,106 @@ We taste the fish sauce and fish.
 * Garum gustatis.
 
 * Garum salsum gusto.
+
+* caro
+meat
+
+* ossa
+bones
+
+* Mercator carnes vendit.
+The merchant sells meats.
+
+* Comites vestri nobis placent.
+We like your comrades.
+
+* Mensa nobis placet.
+We like the table.
+
+* Cauponae in urbe mihi placent.
+I like the inns in the city.
+
+* Piscem vobis iacimus.
+We throw the fish to you.
+
+* Placetne vobis hoc garum?
+Do you like this fish sauce?
+
+* Multas cauponas in foro visitatis.
+You visit many inns in the market.
+
+* Marcus vinum in caupona gustat.
+Marcus tastes the wine in the inn.
+
+* Caro est salsa.
+The meat is salty.
+
+* ovum
+egg
+
+* patella
+plate
+
+* In poculo est vinum rubrm.
+There is red wine in the cup.
+
+* Quid bibit Marcus?
+What does Marcus drink?
+
+* Pocula in pavimento sunt.
+The cups are on the floor.
+
+* Vinum non bibo.
+I do not drink wine.
+
+* Patella et poculum sunt in mensa.
+The plate and the cup are on the table.
+
+* Garum non bibis.
+You do not drink fish sauce.
+
+* Placetne tibi pavo?
+Do you like the peacock?
+
+* Tu urbem condis.
+You build the city.
+
+* Pavones sunt pingues.
+The peacocks are fat.
+
+* Placentne tibi patellae meae?
+Do you like my plates?
+
+* Livia patellam et poculum habet.
+Livia has a plate and a cup.
+
+* Senex sollicitus illum pavonem gustat.
+The worried old man tastes that peacock.
+
+
+================= Level 2 ========================
+* Ego plurimos pisces iacio.
+I throw very many fish.
+
+* Pisces tui sunt pingues.
+Your fish are fat.
+
+* Plurimi pisces in foro non sunt.
+There are not many fish in the school.
+
+* Illi pisces sunt salsi.
+Those fish are salty.
+
+* Illas mensas venditis.
+You sell those tables.
+
+* Piscis ossa habet.
+A fish has bones.
+
+* Ego non sum ovum.
+I am not a egg.
+
+* Multas patellas habemus.
+We have many plates.
+
+*
