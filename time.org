@@ -1,0 +1,106 @@
+#+TITLE: Time
+
+* mane
+Morning
+
+* Marcum excitamus.
+We wake Marcus up.
+
+* Cliens tertius in aedificio est.
+The third client is in the building.
+
+* Pueri me mane excitant.
+The boys wake me early.
+
+* Multae horae sunt.
+There are many hours.
+
+* Maritus benignus illam excitat.
+The kind husband wakes her up.
+
+* Ego contubernales nostros excito.
+I wake our comrades.
+
+* Secunda hora est.
+It's the second hour.
+
+* Post tertiam horam ad forum imus.
+After the third hour we go to the forum.
+
+* Post tertiam horam coquus coquit.
+The cook cooks after the third hour.
+
+* Tertia hora post primam horam est.
+The third hour is after the first hour.
+
+* Ante primam horam Marcum excitatis.
+You wake up Marcus before the first hour.
+
+* Prima hora est.
+It's the first hour.
+
+* Post secundam horam prandium coquit.
+After the second hour he cooks lunch.
+
+* horologium
+clock
+
+* Quintus miles horologium non habet.
+The fifth soldier does not have a clock.
+
+* Meridies est.
+It's noon.
+
+* Nunc meridies est.
+Now is noon.
+
+* Ante quartam horam coquimus.
+We cook before the fourth hour.
+
+* Quintam urbem visito.
+I visit the fifth city.
+
+* Sero Marcum excitas.
+You wake up Marcus late.
+
+* Prima hora ante meridiem est.
+The first hour is before noon.
+
+* Vesperi contubernales ebrii sunt.
+In the evening the comrades are drunk.
+
+* Sero coquum excitamus.
+We wake the cook late.
+
+* interdiu
+during the day
+
+* noctu
+night
+
+* Illos non interficimus.
+We do not kill them.
+
+* Nos advenimus.
+We arrive.
+
+* Interdiu ad templum advenis.
+During the day you arrive at the temple.
+
+* Puer ad lectum tempori non it.
+The boy does not go to bed on time.
+
+* Psittacus iratus illum interficit.
+The angry parrot kills him.
+
+* Uxor ad sepulchrum advenit.
+The wife arrives the grave.
+
+* Noctu contubernales adveniunt.
+At night the comrades arrive.
+
+* Post quintam horam advenitis.
+You arrive after the fifth hour.
+
+* Vos mercatorem miserum interficitis.
+You kill the wretched merchant.
