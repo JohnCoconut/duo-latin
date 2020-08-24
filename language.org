@@ -1,0 +1,40 @@
+#+TITLE: Language
+
+* Orator multos libros legit.
+The orator reads many books.
+
+* Corinna et Stephanus magistrum habent.
+Corinna and Stephanus have a teacher.
+
+* Multi oratores sunt in templo.
+May orators are in the temple.
+
+* Tu bene loqueris.
+You speak well.
+
+* In theatro exclamatis.
+You are shouting in the theater.
+
+* Non bene loquor.
+I do not speak well.
+
+* Male loquitur.
+He speaks badly.
+
+* Marucs et Stephanus in colloquium veniunt.
+Marcus and Stephanus have a conversation.
+
+* Ego in colloquium venio.
+I have a conversation.
+
+* Oratorem in foro visitamus.
+We visit the orator in the forum.
+
+* Oratores in foro exclamant.
+The orators exclaim in the forum.
+
+* Loqueris et exlamas.
+You speak and exclaim.
+
+* Ego litteras latinas legere velim.
+I would like to read Latin literature.
