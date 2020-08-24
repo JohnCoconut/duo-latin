@@ -104,3 +104,15 @@ You arrive after the fifth hour.
 
 * Vos mercatorem miserum interficitis.
 You kill the wretched merchant.
+
+
+========================== Level 2 =======================
+
+* Horologium tempori advenit.
+The clock arrives on time.
+
+* Vesperi Marcus advenit.
+Marcus arrives in the evening.
+
+* Noctu tu Marcum servas.
+At night you save Marcus.
