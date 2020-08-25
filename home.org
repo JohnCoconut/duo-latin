@@ -1,0 +1,154 @@
+#+TITLE: Home
+
+* sella
+chair
+
+* villa
+house
+
+* Corinna ad urbem ambulat.
+Corinna walks to the city.
+
+* Corinna et Livia, ubi sedetis?
+Corinna and Livia, where do you sit?
+
+* Psittacus ebrius in sella sedet.
+The drunk parrot sits in the chair.
+
+* Matres non sunt sellae.
+Mothers are not chairs.
+
+* Matres et patres sedent.
+The mothers and the fathers sit.
+
+* Quid in larario est?
+What is in the lararium?
+
+* Interdiu ambulamus.
+During the day we walk.
+
+* Ad lararium ambulatis.
+You walk to the lararium.
+
+* Lararium est in villa.
+The lararium is in the house.
+
+* Tu in tablino sedes.
+You sit in the office.
+
+* Tablinum sellas habet.
+The office has chairs.
+
+* via
+road
+
+* latrina
+bathroom
+
+* Ego viam visito.
+I visit the street.
+
+* Ambulatis aut dormitis.
+You walk or you sleep.
+
+* Cena in cenaculo est
+The dinner is the dinning room.
+
+* Primum cubiculum lectum habet.
+The first room has the bed.
+
+* Ad cenaculum advenio.
+I arrive at the dinning room.
+
+* Ego in insula habito.
+I live in an apartment building.
+
+* Architectus vias in urbe construit.
+The architect build roads in the city.
+
+* Latrinas sordidas non visitatis.
+You do not visit dirty bathroom.
+
+* Insulas sordidas non amamus.
+We do not love dirty apartment buildings.
+
+* Viae in urbe sunt sordidae.
+The streets in the city are dirty.
+
+* Latrinae sunt sordidae.
+The toilets are dirty.
+
+* Cubicula sunt sordida.
+The bedrooms are dirty.
+
+* culina
+kitchen
+
+* canis
+dog
+
+* Canis meus in culina est.
+My dog is in the kitchen.
+
+* mus
+mouse
+
+* Mustelae sordidae in cubiculo habitant.
+The dirty weasels live in the bedroom.
+
+* Mus noctu non dormit.
+The mouse does not sleep at night.
+
+* Hic psittacus est ebrius.
+This parrot is drunk.
+
+* Quot culinas habetis?
+How many kitchens do you have?
+
+* Murem captamus?
+We try to grab the mouse.
+
+* In cenaculo meo mures capto.
+I try to grab the mice in my dinning room.
+
+* Mustela murem captat.
+The weasel tries to grab the mouse.
+
+* Haec est mustela mea.
+This is my weasel.
+
+* Hic est mus.
+The is a mouse.
+
+* Haec culina est sordida.
+This kitchen is dirty.
+
+* vestimenta
+clothes
+
+* In atrio ambulamus.
+We walk in the atrium.
+
+* Pueri sordidi in atrium non eunt.
+The dirty boys do not go into the atrium.
+
+* Vestimenta sunt in armario.
+The clothes are in the closet.
+
+* Estne vestimentum in armario?
+Is the garment in the closet?
+
+* Mustelae coquere non solent.
+Weasels do not usually cook.
+
+* Mater et pater dormire solent
+Mother and father usually sleep.
+
+* Canes in pavimento dormire solent.
+Dogs usually sleep on the floor.
+
+* In atrio non habito.
+I do not live in the atrium.
+
+* Atrium et lararium in villa sunt.
+The atrium and lararium are in the villa.
