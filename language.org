@@ -38,3 +38,96 @@ You speak and exclaim.
 
 * Ego litteras latinas legere velim.
 I would like to read Latin literature.
+
+* volumen
+book
+
+* bibliotheca
+library
+
+* Orator ad me litteras mittit.
+The orator sends a letter to me.
+
+* Volumen primum longum est.
+The first book is long.
+
+* Carmina et epistulas ad Marcum mittitis.
+You send the songs and the letters to Marcus.
+
+* Oratores epistulas mittunt.
+The orators send the letters.
+
+* Epistulas ad oratorem mittimus.
+We send letters to the orator.
+
+* Volumina non loquuntur.
+Scrolls do not speak.
+
+* Bene loquimur.
+We speak well.
+
+* Male loquimini.
+You speak poorly.
+
+* Sorores meae ad bibliothecam adveniunt.
+My sisters arrive at the libray.
+
+* anglice
+English
+
+* hispanice
+Spanish
+
+* Quid est verbum?
+what is the word?
+
+* Turba irata est.
+The crowd is angry.
+
+* Turbae hispanice loquuntur.
+The crowds speak Spanish.
+
+* Discipulae semper latinae linguae student.
+The students always study Latin.
+
+* Quinque verba scio.
+I also five words.
+
+* Plurima verba in volumine sunt.
+There are very many words in the scroll.
+
+* Nos bibliothecam vistare volumus.
+We want to visit the library.
+
+* Puellae urbes vistare volunt.
+The girls want to visit the cities.
+
+* germanice
+German
+
+* Inscriptio mihi placet.
+I like the inscription.
+
+* In bibliotheca magistra inscriptiones germanice scribit.
+In the library the teacher writes German inscriptions.
+
+* In biblitheca tacite loquimur.
+We speak quiietly in the library.
+
+* Ubi urbs proxima est?
+Where is the nearest city?
+
+* Livia inscriptionem laudat.
+Livia praises the inscription.
+
+* Volumen invenire volumus.
+We want to find the scroll.
+
+* Professores volumina in bibliotheca inveniunt.
+The professors find scrolls in the library.
+
+* Magister librum laudet.
+The teacher praises the book.
+
+* In templo tacite loquimur.
+In the temple we speak quietly.
