@@ -152,3 +152,17 @@ I do not live in the atrium.
 
 * Atrium et lararium in villa sunt.
 The atrium and lararium are in the villa.
+
+========================== Level 2 =====================================
+
+* Psittaci non ambulant.
+Parrots do not walk.
+
+* Patres in tablino sedent.
+The fathers are sitting in the office.
+
+* Ego in larario non habito.
+I do not live in the lararium.
+
+* Mane in urbem ambulo.
+I walk into the city early.
