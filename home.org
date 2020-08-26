@@ -166,3 +166,27 @@ I do not live in the lararium.
 
 * Mane in urbem ambulo.
 I walk into the city early.
+
+* Ubi est latrina?
+Where is the toilet?
+
+* Cenacum in insula est.
+The dinning room is in the apartment building.
+
+* Viae in urbe sunt sordidae.
+The streets in the city are dirty.
+
+* In cenaculo meo mures capto.
+I try to grab the mice in my dinning room.
+
+* Mus vestimenta non habet.
+The mouse does not have clothes.
+
+* Vestimentum in amario est.
+The garment is in the closet.
+
+* Mustelae mures coquere non solent.
+The weasels do not usually cook the rice.
+
+* Vestimenta sunt in amario.
+The clothes are in the closet.
