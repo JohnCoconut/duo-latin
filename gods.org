@@ -62,3 +62,70 @@ The gods kill their enemies.
 
 * Mustelae vestimenta non gerunt.
 Weasels don't wear clothes.
+
+* Mercurius iter facit.
+Mercurius makes a journey. (The messager god)
+
+* Vates itinera faciunt.
+Bards makes journeys.
+
+* Iuppiter hastam habet.
+Iuppiter has a spear.
+
+* Iuppiter fulmen contorquet.
+Iuppiter hurls a thunderbolt.
+
+
+* Quomodo Iuppiter fulmen contorquet?
+How does Iuppiter hurl a thunderbolt?
+
+* Mars et Minerva hastas contorquent.
+Mars and Minerva hurl spears.
+
+* Hostes hastas contorquent.
+The enemies hurl spears.
+
+* Mercurius, non Iuppiter, itinera regit.
+Mercurius, not Iuppiter, rules trips.
+
+* Bubones itinera faciunt.
+Owls make journeys.
+
+* Noli in atrio coquere!
+Don't cook in the atrium.
+
+* Dei nos non rogant.
+The gods do not ask us.
+
+* Deus appropinquat.
+The god approaches.
+
+* Noli contorquere pavones!
+Don't hurl peacocks.
+
+* Nemo hastam habet.
+No one has a spear.
+
+* Deas videmus.
+We see goddesses.
+
+* Nemo deas rogat.
+No one asks goddesses.
+
+* Nolite appropinquare!
+Don't approach.
+
+* Noli appropinquare deae.
+Don't approach the goddess.
+
+* Nolite deos rogare.
+Don't ask the gods.
+
+* Noli appropinquare psittaco irato
+Don't approach an angry parrot.
+
+* Nolite contorquere hastam!
+Don't hurl a spear!
+
+* Nemo deae appropinquat.
+No one approaches the goddess.
