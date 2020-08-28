@@ -129,3 +129,8 @@ Don't hurl a spear!
 
 * Nemo deae appropinquat.
 No one approaches the goddess.
+
+==================== level 2 ==============
+
+* Hostnes eorum non sunt sapientes.
+Their enemies are not wise.
