@@ -1,0 +1,143 @@
+#+TITLE: Shopping
+
+* anulus
+ring
+
+* Livia furem captat.
+Livia tries to grab the thief.
+
+* Placetne vobis anulus meus?
+Do you like my ring?
+
+* Canis tuus est sordidus.
+Your dog is dirty.
+
+* Quot aureos habetis?
+How many gold pieces do you have?
+
+* Ubi sunt anuli mei?
+Where are my rings?
+
+* Qinque anuli aurei!
+Five gold rings.
+
+* Pecunia aurea est optima.
+Gold money is the best.
+
+* Mustelam nostram tibi tradimus.
+We hand over our weasels to  you.
+
+* Gemmas et anulos concupisco.
+I am greedy for gems and rings.
+
+* Plurimi pisces in ludo non sunt.
+There are not very many fish in the school.
+
+* Tibi gemmas trado.
+I hand over the gems to you.
+
+* Fur crustula concupiscit.
+The thief is greedy for the cookies.
+
+* Psittacus gemmas tuas concupiscit.
+The parrot is greedy for you gems.
+
+* Fures nobi gemmas tradunt.
+The thieves hand out the jewels to us.
+
+* Gemmas ei non tradunt.
+
+* Fures anulum tuum concupiscunt.
+The thieves are greedy for your ring.
+
+* Psittacus gemmas tuas concupiscit.
+The parrot is greedy for your gems.
+
+* Gemmas et anulos in villa celo.
+I hide gems and rings in the house.
+
+* Volumen in bibliotheca celamus.
+We hide the book in the library.
+
+* Iuppiter togam gerit.
+Iuppiter wears a toga.
+
+* Piscis candidus est in patella.
+The white fish is on the plate.
+
+* Mustelae togas non habent.
+Weasels do not have togas.
+
+* Cannis gemmas celat.
+The dog hides the gems.
+
+* Placentne tibi novae gemmae meae?
+Do you like my new gems?
+
+* Quid celas?
+What are you hiding?
+
+* Canes ossa celant.
+The dogs hide the bones.
+
+* Mercator novus vobis non placet.
+You do not like the new merchant.
+
+* Quot togae candidae sunt in taberna?
+How many white togas are in the shop?
+
+* Stolas candidas non habemus.
+We do not have white stolas.
+
+* Stolas novas habeo.
+I have new stolas.
+
+* Corinna, ubi est stola tua nova?
+Corinna, where is your new stola?
+
+* Sub toga sunt plurimae gemmae.
+Under the toga are very many gems.
+
+* Marcus togam novam habet.
+Marcus has a new toga.
+
+* Calceos tuos celamus.
+We hide your shoes.
+
+* Tu psittacos aestimas.
+You appraise the parrots.
+
+* Fures gemmas aestimant.
+The thieves appraise the gems.
+
+* Pretium tuum celas.
+You hide your price.
+
+* Calcei sub toga sunt.
+The shoes are under the toga.
+
+* Pretium aestimamus.
+We estimate the price.
+
+* Emptores pretia aestimant.
+The customers estimate the prices.
+
+* Caveat emptor (see wiki, https://en.wikipedia.org/wiki/Caveat_emptor)
+
+* Vos mercartores pretia aestimatis.
+You merchants estimate the prices.
+
+* Stolam novam vendere vult.
+He/She wants to sell the new stola.
+
+* Calceos novos vendere vult.
+He/She wants to sell the new shoes.
+
+* Emptor canem meum emere vult.
+The customer wants to buy my dog.
+
+* Emptor pretium aestimare vult.
+The customer want to estimate the price.
+
+* Emptor iratus pretium aestimat.
+The angry customer estimates the price.
