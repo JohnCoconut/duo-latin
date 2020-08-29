@@ -141,3 +141,20 @@ The customer want to estimate the price.
 
 * Emptor iratus pretium aestimat.
 The angry customer estimates the price.
+
+
+======================================= Level 2 ============================
+
+* Anulum pulchrum celant.
+They hide the beautiful ring.
+
+* Toga candia sub stola est.
+The white toga is under the dress.
+
+* Piscis candidus est in patella.
+The white fish is on the plate.
+
+* Livia novam stolam candiam velit.
+Livia would like a new white stola.
+
+* Calei et toga candia in cubiculo sunt.
