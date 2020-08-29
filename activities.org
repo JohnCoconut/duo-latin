@@ -1,0 +1,46 @@
+#+TITLE: Activities
+
+* aqua
+water
+
+* Balnea in foro non sunt.
+The baths are not in the market.
+
+* Patellam imples.
+You fill the plate.
+
+* Comites pocula implent.
+The comrades fill the cups.
+
+* Te lavo.
+I wash you.
+
+* In labro aqua est.
+Water is in the tub.
+
+* Coquus patellam implet.
+The cook fills the plate.
+
+* Ubi vos lavatis?
+Where do you wash yourselves?
+
+* Architectus balneum construit.
+The architect builds the bathhouse.
+
+* Tu mustelam sordidam lavas.
+You wash the dirty weasel.
+
+* Ego labrum impleo.
+I fill the tub.
+
+* Vesperi labrum sordidum impletis.
+In the evening you fill the dirty tub.
+
+* Labrum in balneo est.
+The tub is in the bathhouse.
+
+* Labrum implemus et nos lavamus.
+We fill the tub and we wash ourselves.
+
+* Balnea in foro non sunt
+The baths are not in the forum.
