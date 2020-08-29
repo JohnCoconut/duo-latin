@@ -44,3 +44,78 @@ We fill the tub and we wash ourselves.
 
 * Balnea in foro non sunt
 The baths are not in the forum.
+
+* In bibliotheca tacite legere possumus.
+We are able to read quietly in the library.
+
+* Marcus verbum proximum legere potest.
+Marcus can read the next word.
+
+* Fortasse psittaci legere possunt.
+Perhaps the parrots can read.
+
+* Me lavare potes.
+You can wash me.
+
+* Canem sordidum lavare possum.
+I can wash the dirty dog.
+
+* Labrum implere non potes.
+You cannot fill the tub.
+
+* Postesne in sella sedere?
+Can you sit in the chair?
+
+* Labra implere potes.
+You can fill the bathtubs.
+
+* Aqua balneum implere potest.
+Water can fill the bath.
+
+* In bibliotheca proxima tacite legere possum.
+I can read quietly in the nearest library.
+
+* Femina hispanice legere non potest.
+The woman is not able to read in Spanish.
+
+* donum
+gift
+
+* Sacerdotes irati non sacrificant.
+The angry priests do not sacrifice.
+
+* Uxorem callidam habeo.
+I have a clever wife.
+
+* Psittaci callidi epistulas non mittunt.
+The clever parrots do not send letters.
+
+* Tres filias callidas habetis.
+You have three clever daughters.
+
+* Sacerdotem pecuniosum visitamus.
+We visit the rich priest.
+
+* Mustela callida in pavimento sedet.
+The clever weasel sit on the floor.
+
+* Cliens tertius patronum visitat.
+The third clients visits the patron.
+
+* Magistrum callidum invenimus.
+We find the clever teacher.
+
+* Sacrificare potestis.
+You can sacrifice.
+
+* Mercatores pecuniam tradere possunt.
+The merchants can hand over the money.
+
+* Sacerdos callidus ad aram it.
+The clever priest goes to the altar.
+
+* Sacerdos perfidus sacrificare potest.
+The deceitful priest can sacrifice.
+
+* Donum tradere possumus.
+We can hand over the gift.
