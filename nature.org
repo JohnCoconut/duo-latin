@@ -1,0 +1,172 @@
+#+TITLE: Nature
+
+* ignis
+fire
+
+* pons
+bridge
+
+* Psittacus ebrius meus non est pessimus, Marce!
+My drunk parrots is not the worst, Marcus!
+
+* animalia
+animals
+
+* Canis pavimentum delet.
+The dog destroys the floor.
+
+* Pons est in urbe.
+The bridge is in the city.
+
+* Psittacos ebrios delere volo.
+I want to destroy the drunk parrots.
+
+* Potem pulchrum non deles.
+You do not destroy the pretty bridge.
+
+* Forte psittaci sunt ebrii.
+By change the parrots are drunk.
+
+* Forte psittacus ebrius villam delet.
+By change the drunk parrot destroys the villa.
+
+* Psittaci ebrii sunt animalia pessima.
+Drunk parrots are the worst animals.
+
+* Ignem in urbe video.
+I see fire in the city.
+
+* Sub ponte ignis est.
+There is fire under the bridge.
+
+* Plurimos pontes delemus.
+We destroy very many bridges.
+
+* Psittcos illos igne deleo.
+I destroy those parrots with fire.
+
+* Ignes rapide pontes delent.
+The fires destroy the bridges rapidly.
+
+* Plurimos pontes delemus.
+We destroy very many bridges.
+
+* Milites pontem igne delent.
+The soldiers destroy the bridge with fire.
+
+* arbor
+tree
+
+* homo
+man
+
+* Forte dei homines delent.
+By chance the gods destroy the humans.
+
+* Homo in arbore sedet.
+A human sits in a tree.
+
+* Minerva hominem impium delet.
+Minerva destroys the undutiful human.
+
+* Mustela arborem rapide ascendit.
+The weasel rapidly climbs the tree.
+
+* Aqua in pavimento fluit.
+Water flows on the floor.
+
+* Pavones arborem non ascendunt.
+The peacocks do not climb the tree.
+
+* Flumen rapide fluere vis.
+You want the river to flow rapidly.
+
+* Arbores rapide ascendere vis.
+You want to climb tree rapidly.
+
+* Arbores ascenditis.
+You climb trees.
+
+* Flumina languide et lente fluunt.
+The rivers flows sluggishly and slowly.
+
+* Sub ponte flumen fluit.
+The river flows under the bridge.
+
+* caelum
+sky
+
+* ventus
+wind
+
+* Mustelae in caelum ascendere non possunt.
+The weasels cannot climb into the sky.
+
+* Iuppiter aedificium vento delet.
+Iuppiter destroys the building by wind.
+
+* Mustelae non sunt in caelo.
+The weasels are not in the sky.
+
+* Rapide exeunt.
+They exit rapidly.
+
+* Exire volo.
+I want to exit.
+
+* Senex iuvenem vehementer pulsat.
+The old man hits the young man violently.
+
+* Per atrium exit.
+He exits through the atrium.
+
+* Ventus iratus per villam perflat.
+The angry wind blows through the villa.
+
+* Venti per villam perflant.
+The winds blow through the villa.
+
+* silva
+woods/forest
+
+* mons
+moutain
+
+* imber
+rain
+
+* umbra
+shadow
+
+* Imber et ventus aedificium rapide delent.
+Rain and wind destroy the building rapidly.
+
+* Per silvam exire soleo.
+I usually exit through the forest.
+
+* Venti silvas perflant.
+The winds blow through the forests.
+
+* Iuvenes callidi ad montem adveniunt.
+The clever young men arrive at the moutain.
+
+* Per umbram ascendere volo.
+I want to rise through the shadow.
+
+* De ara iuvenis descendere vult.
+The young man wants to descend from the altar.
+
+* De ponte in urbem descendimus.
+We descend from the bridge into the city.
+
+* De silva in urbem descenditis.
+You descend from the forest into the city.
+
+* De silva in urbem descendo.
+I descend from the forest into the city.
+
+* Animalia de monte descendunt.
+Animals descend from the moutain.
+
+* Umbra de caelo descendit.
+The shadow descends from the sky.
