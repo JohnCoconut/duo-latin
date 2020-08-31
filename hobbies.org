@@ -180,3 +180,8 @@ The pond is in the courtyard.
 
 * Natare aut saltare solet.
 He usually swims or dances.
+
+================================ level 1 ================================
+
+* Fabulas narrare tibli placet.
+You like to tell stories.

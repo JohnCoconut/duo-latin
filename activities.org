@@ -119,3 +119,8 @@ The deceitful priest can sacrifice.
 
 * Donum tradere possumus.
 We can hand over the gift.
+
+========================= level 1 =========================
+
+* Sacerdos donum tradere potest.
+The priest can hand over the sacrifice.

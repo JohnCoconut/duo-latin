@@ -67,7 +67,7 @@ The leisurely old man reads a book.
 Are the parrots leisurely?
 
 * Irata (angry)
-** Livia est fessa est irata.
+** Livia est fessa et irata.
 Livia is tired and angry.
 ** Iuvenes irati pugnant.
 The angry young men fight.
