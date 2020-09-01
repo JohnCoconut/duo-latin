@@ -170,3 +170,17 @@ Animals descend from the moutain.
 
 * Umbra de caelo descendit.
 The shadow descends from the sky.
+
+====================== level 1 ====================
+
+* De caelo umbrae descendunt.
+The shadows descend from the sky.
+
+* Silvas igne delent.
+They destroy the forest by fire.
+
+* Imbres de caelo descendunt.
+Rains descend from the sky.
+
+* Ventus ad montem vehementer ascendit.
+The wind violently rises to the moutain.
