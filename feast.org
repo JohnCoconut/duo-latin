@@ -1,0 +1,94 @@
+#+TITLE: Feast
+
+* caseus
+cheese
+
+* Caseus tibi placet.
+You like cheese.
+
+* Pavones esuriunt.
+The peacocks are hungry.
+
+* Patella est sub pane.
+The plate is under the bread.
+
+* Estne pavo fartus pane?
+Is the peacock stuffed with bread?
+
+* Plurimi casei mihi placent.
+I like very many cheeses.
+
+* Hodie pernam gustamus.
+Today we taste the ham.
+
+* Nos esurimus.
+We are hungry.
+
+* Perna farta caseo est.
+The ham is stuffed with cheese.
+
+* Sum fartus pane.
+I am stuffed with bread.
+
+* Mustelae noctu esuriunt.
+The weasels are hungry at night.
+
+* Noctu valde esurio.
+At night I am very hungry.
+
+* Sine dubio nos valde esurimus.
+Without a doubt we are very hungry.
+
+* Sine dubio, comedere pernam volo.
+Without a doubt, I want to eat ham.
+
+* Caseus tam bene olet.
+The cheese smells so good.
+
+* Nimis male olet.
+It smells too bad.
+
+* Nimis comedis.
+You eat too much.
+
+* Noli caseum comedere!
+Don't eat the cheese!
+
+* Marcus valde esurit.
+Marcus is very hungry.
+
+* ientaculum
+breakfast
+
+* caffea
+coffee
+
+* Ego sum semisomna.
+I am half asleep.
+
+* Viri stulti vinum ante ientaculum bibunt.
+The stupid men drink wine before breakfast.
+
+* Stephanus poculum exhaurit.
+Stephanus drains the cup.
+
+* Mustelae stultae mures captant.
+The stupid weasels try to grab the mice.
+
+* Pocula ante auroram exhaurio.
+I drain the cup before dawn.
+
+* Caffea post auroram mihi placet.
+Coffee after dawn is pleasing to me.
+
+* Marcus est semisomnus aut stultus.
+Marcus is half-asleep or stupid.
+
+* Vir semisomnus caffeam bibere vult.
+The half-asleep man want to drink coffee.
+
+* Coquus ientaculum coquit.
+A cook cooks breakfast.
+
+* Bibere caffeam volumus.
+We want to drink coffee.
